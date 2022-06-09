@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+h1 {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+p {
+    font-family: 'Anton', sans-serif;
+    font-size: larger;
+}
+#a{
+    position:absolute;
+    top: 100;
+
+}
+
+#red {
+    background-color: red;
+    width: 600px;
+    height: 200px;
+    position: relative;
+}
+
+#red p {
+    position: absolute;
+}
+img{
+    position:absolute;
+    float:right;
+    width:100px;
+    height:100px;
+    
+}
+.calc{
+    height:200%;
+    width:200%;
+    background-color: green;
+}

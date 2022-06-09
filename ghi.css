@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    margin:0;
+}
+h2.blue{
+    color:blue;
+}
+.blue{
+    color: hotpink;
+}
+h3 .green{
+    color: green;
+}
+h3.blue.green{
+    color: darkmagenta;
+}
+.blue.green{
+    color: red;
+}
+h1#section.green{
+    color: yellow;
+}

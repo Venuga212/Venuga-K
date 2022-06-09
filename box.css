@@ -1,0 +1,132 @@
+.box1{
+    height: 100px;
+    width: 41%;
+    background: red;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 20px;
+    display: inline-block;
+    text-align: centre;
+}
+.box2{
+    height: 100px;
+    width: 56%;
+    background: blue;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    display: inline-block;
+}
+.box3{
+    height: 100px;
+    width: 98%;
+    background: yellow;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.box4{
+    height: 100px;
+    width: 31.889%;
+    background: green;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 20px;
+    display: inline-block;
+}
+.box5{
+    height: 100px;
+    width: 31.889%;
+    background: gray;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    display: inline-block;
+}
+.box6{
+    height: 100px;
+    width: 31.889%;
+    background: pink;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    margin-left: 5px;
+    display: inline-block;
+}
+.box7{
+    height: 100px;
+    width: 47.9899%;
+    background: darkgreen;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 20px;
+    display: inline-block;
+}
+.box8{
+    height: 100px;
+    width: 47.9899%;
+    background: purple;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 20px;
+    margin-left: 5px;
+    display: inline-block;
+}
+.box9{
+    height: 100px;
+    width: 23.99%;
+    background: blanchedalmond;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    display: inline-block;
+}
+.box10{
+    height: 100px;
+    width: 23.99%;
+    background: saddlebrown;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    display: inline-block;
+}
+.box11{
+    height: 100px;
+    width: 23.99%;
+    background: gold;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    display: inline-block;
+}
+.box12{
+    height: 100px;
+    width: 23.99%;
+    background: crimson;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    display: inline-block;
+}
+.box13{
+    height: 100px;
+    width: 98%;
+    background: black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    display: inline-block;
+    text-align: centre;
+}
+
