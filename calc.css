@@ -1,0 +1,22 @@
+.wait{
+    height: 100%;
+    width:100%;
+    background-color: white;
+    position:relative;
+}
+.min{
+    background-color: blueviolet;
+    height:200px;
+    width:200px;
+    position:absolute;
+    left:80%;
+    right:20%;
+    top:calc((100%-200px)/2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 200px;
+    padding-bottom: 50px;
+}
